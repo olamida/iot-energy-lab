@@ -1,0 +1,4 @@
+target,text_bytes,data_bss_bytes,helper_call_sites,helpers
+Cortex-M33,218,0,0,
+Cortex-M0+ (no div hardware),204,0,0,
+ATmega328P (8-bit AVR),392,0,0,
